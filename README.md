@@ -4,8 +4,8 @@ Computer vision solutions for plants from EcoPOD
 <table border="0">
  <tr>
     <td>
-     <img src="https://github.com/dani-lbnl/CAMERA_workshop2021/blob/main/selfdrive.png" width="400">
-     <p> http://bit.ly/selfdrivinglab
+     <img src="https://github.com/dani-lbnl/eyecopod/blob/main/Eyecopod.png" width="400">
+     <p> http://bit.ly/eyecopod
     </td>
     <td>
      <p>
