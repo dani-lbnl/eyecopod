@@ -1,4 +1,6 @@
-# eyecopod
+eyecopod
+========
+
 Computer vision solutions for plants from EcoPOD
 
 <table border="0">
@@ -13,6 +15,17 @@ Computer vision solutions for plants from EcoPOD
                Transactions on Computational Science & Computational Intelligence. </tr>
 </table>
 
-
 Dataset examples:
 -----------------
+
+<table border="0">
+ <tr>
+    <td>
+     <img src="https://github.com/dani-lbnl/eyecopod/blob/main/fig1.png" width="500">
+    </td>
+    <td>
+     <img src="https://github.com/dani-lbnl/eyecopod/blob/main/fig2.png" width="500">
+    </td>
+
+</tr>
+</table>
