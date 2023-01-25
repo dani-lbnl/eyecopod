@@ -1,3 +1,8 @@
+# Dani's stuff
+code/segmentation/*.*
+code/.DS_Store
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

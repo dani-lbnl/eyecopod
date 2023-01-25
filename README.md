@@ -1,7 +1,7 @@
 EyecoPod
 ========
 Watch out for our planet and use computer vision for climate change!
-This is a story of investigating computational schemes based on Computer Vision algorithms to better understand plant photography and imaging from non-conventional imaging: EcoPOD, EcoFAB and EcoBOT. Why? Because measuring plant development helps to understand how to increase food production, how to minimize waste, and how to see the impact to our environment. 
+This is a story of investigating computational schemes based on Computer Vision algorithms to better understand plant photography and imaging from non-conventional imaging: EcoPOD, EcoFAB and EcoBOT. Why? Because measuring plant development helps to understand how to increase food production, how to minimize waste, and how to see the impact to our environment.
 
 These notebooks are designed to solve problems using scientific data, both publicly available as well as data acquired using advanced instruments at DOE national labs.  
 
@@ -37,4 +37,4 @@ Dataset examples:
 References:
 -----------------
 
-Ushizima et al,["Multimodal analysis of plant root composition as a function of drought", BIOCOMP'21: 22nd International Conference on Bioinformatics & Computational Biology](https://github.com/dani-lbnl/eyecopod/publications/CSCE_EcoPod.pdf). Publisher:  Springer Nature - Book Series: Transactions on Computational Science & Computational Intelligence.
+Ushizima et al,["Multimodal analysis of plant root composition as a function of drought", BIOCOMP'21: 22nd International Conference on Bioinformatics & Computational Biology](https://github.com/dani-lbnl/eyecopod/blob/main/publications/CSCE_EcoPod.pdf). Publisher:  Springer Nature - Book Series: Transactions on Computational Science & Computational Intelligence.
